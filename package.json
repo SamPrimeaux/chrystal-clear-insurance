@@ -1,5 +1,5 @@
 {
-  "name": "chrystal-clear-insurance-demo",
+  "name": "chrystal-clear-insurance",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -10,10 +10,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
-  },
-  "devDependencies": {}
+    "vite": "latest"
+  }
 }
